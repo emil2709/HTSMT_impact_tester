@@ -1,4 +1,4 @@
-# HTSMT_impact_tester
+# Hyperthreading and Simultaneous Multithreading Impact Tester
 
 This test is developed to see the impact of Intel's Hyperthreading and A
 MD's SMT.
